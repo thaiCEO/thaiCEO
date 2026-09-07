@@ -5,7 +5,9 @@
 - 🧠 I'm passionate about self-learning  
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LON KIMTHAI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kimthaibmc2017@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/LON KIMTHAI)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LonKimthai)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kimthaibmc2017@gmail.com) 
 
 # 💻 Tech Stack:
 
