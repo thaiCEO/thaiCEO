@@ -6,17 +6,10 @@
 
 ## 🌐 Socials:
 
-<p align="left">
-  <a href="https://www.facebook.com/LON%20KIMTHAI">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="150" />
-  </a>
-  <a href="https://t.me/LonKimthai">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="150" />
-  </a>
-  <a href="mailto:kimthaibmc2017@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150" />
-  </a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/LON%20KIMTHAI)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/LonKimthai)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kimthaibmc2017@gmail.com)
+
 
 # 💻 Tech Stack:
 
